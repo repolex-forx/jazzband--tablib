@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "tablib",
+  "versions": [
+    {
+      "commit": "966876c76a6378557c1951badc1665b4d1375875",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:14:33.247252+00:00"
+    }
+  ]
+}
